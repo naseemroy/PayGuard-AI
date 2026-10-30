@@ -1,0 +1,9 @@
+transaction_id,amount,country,is_new_device,transactions_last_hour,account_age_days,distance_from_last_km,is_international
+TXN-1001,42.5,Nepal,0,1,420,3,0
+TXN-1002,185.0,Nepal,1,2,180,12,0
+TXN-1003,1450.0,Singapore,1,8,3,620,1
+TXN-1004,78.2,Nepal,0,2,900,8,0
+TXN-1005,620.0,United Kingdom,1,4,18,260,1
+TXN-1006,19.99,Nepal,0,1,1200,2,0
+TXN-1007,980.0,India,0,6,45,540,1
+TXN-1008,55.0,Nepal,0,1,730,1,0
